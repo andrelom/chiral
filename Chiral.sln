@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Building Blocks", "3. Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiral.Core", "src\Chiral.Core\Chiral.Core.csproj", "{05102634-29AF-4C89-830D-9CC32CFCC9EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiral.Protocol", "src\Chiral.Protocol\Chiral.Protocol.csproj", "{62F4F4F9-1536-4B8C-9A8B-D85FE6B62B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +17,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{05102634-29AF-4C89-830D-9CC32CFCC9EE} = {ACE4F998-22CC-4502-A86A-64F66119D0D8}
+		{62F4F4F9-1536-4B8C-9A8B-D85FE6B62B34} = {ACE4F998-22CC-4502-A86A-64F66119D0D8}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{05102634-29AF-4C89-830D-9CC32CFCC9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05102634-29AF-4C89-830D-9CC32CFCC9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05102634-29AF-4C89-830D-9CC32CFCC9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05102634-29AF-4C89-830D-9CC32CFCC9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F4F4F9-1536-4B8C-9A8B-D85FE6B62B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F4F4F9-1536-4B8C-9A8B-D85FE6B62B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F4F4F9-1536-4B8C-9A8B-D85FE6B62B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F4F4F9-1536-4B8C-9A8B-D85FE6B62B34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
