@@ -1,5 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Hosts", "1. Hosts", "{E5034861-55BA-4F49-8020-0D835D83A313}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Modules", "2. Modules", "{F3CC6A60-A3ED-4AF0-A037-EF5AC395F351}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Building Blocks", "3. Building Blocks", "{ACE4F998-22CC-4502-A86A-64F66119D0D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
