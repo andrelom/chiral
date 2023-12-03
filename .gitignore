@@ -1,0 +1,18 @@
+#
+# Folders
+
+.vs/
+.idea/
+
+bin/
+obj/
+
+release/
+
+#
+# Files
+
+*.user
+*.log
+
+.env.local
